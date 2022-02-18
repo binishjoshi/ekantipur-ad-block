@@ -14,7 +14,8 @@
 var styles = `
   .static-sponsor,
   .daraz-sponser,
-  .ekans-wrapper {
+  .ekans-wrapper,
+  .img-fluid {
     display: none;
   }
 `;

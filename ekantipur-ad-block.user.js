@@ -5,8 +5,8 @@
 // @grant       none
 // @version     0.01
 // @author      neo
-// @updateURL   https://github.com/cyclonejet/ekantipur-ad-block/raw/master/ekantipur-ad-block.js
-// @downloadURL https://github.com/cyclonejet/ekantipur-ad-block/raw/master/ekantipur-ad-block.js
+// @updateURL   https://github.com/cyclonejet/ekantipur-ad-block/raw/master/ekantipur-ad-block.user.js
+// @downloadURL https://github.com/cyclonejet/ekantipur-ad-block/raw/master/ekantipur-ad-block.user.js
 // @description 2/16/2022, 12:18:28 AM
 // ==/UserScript==
 
@@ -15,7 +15,8 @@ var styles = `
   .static-sponsor,
   .daraz-sponser,
   .ekans-wrapper,
-  .img-fluid {
+  .img-fluid
+  .text-center {
     display: none;
   }
 `;

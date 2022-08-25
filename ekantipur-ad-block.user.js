@@ -15,7 +15,7 @@ var styles = `
   .static-sponsor,
   .daraz-sponser,
   .ekans-wrapper,
-  .img-fluid
+  .img-fluid,
   .text-center {
     display: none;
   }

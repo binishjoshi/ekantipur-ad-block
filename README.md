@@ -1,5 +1,8 @@
+# Install this instead:
+[https://github.com/sndsabin/swaccha-adblock-filter](https://github.com/sndsabin/swaccha-adblock-filter)
+---
 # ekantipur-ad-block
-This doesn't really block ads but sets ad components' display to none.
+This doesn't really block ads but sets ad components' display to none. This project has be abandoned in favor of above project.
 
 ---
 ### Setup
